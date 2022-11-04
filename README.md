@@ -1,2 +1,2 @@
 # split-belt-treadmill
-Arduino and python code to control speeds of split-belt treadmill. 
+Hardware and software for building and controlling split-belt treadmill for head-fixed mice.
